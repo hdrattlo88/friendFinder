@@ -42,8 +42,8 @@ module.exports = function(app) {
 				matchName = friends[i].name;
         matchImage = friends[i].photo;
         
-        $("#matchName").show('Friend name = ' + friends[i].name);
-        $("#matchPhoto").show(friends[i].photo);
+        // $("#matchName").show('Friend name = ' + friends[i].name);
+        // $("#matchPhoto").show(friends[i].photo);
 			}
 		}
 		friends.push(userInput);
