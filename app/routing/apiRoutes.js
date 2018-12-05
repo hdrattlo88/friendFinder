@@ -45,7 +45,8 @@ module.exports = function(app) {
         // $("#matchName").show('Friend name = ' + friends[i].name);
         // $("#matchPhoto").show(friends[i].photo);
 			}
-		}
+    }
+    
 		friends.push(userInput);
 		res.json({status: 'OK', matchName: matchName, matchImage: matchImage});
 	});
