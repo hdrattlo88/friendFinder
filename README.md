@@ -1,4 +1,4 @@
-# friendFinder# Project Title
+# friendFinder
 
 Friend Finder is an app that matches you to someone else based on your answers to the quiz. This app was developed to learn how to express routes. 
 
